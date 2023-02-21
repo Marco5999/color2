@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 17
+  controlID: 56
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 478, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 18
+  controlID: 57
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -191,7 +191,7 @@ MonoBehaviour:
   m_MinSize: {x: 478, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 96
+  controlID: 58
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -458,7 +458,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 3.6776357, y: -0.20528896, z: -2.7134259}
     speed: 2
-    m_Value: {x: 3.682725, y: -0.20840974, z: -2.713331}
+    m_Value: {x: 3.6776357, y: -0.20528896, z: -2.7134259}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -510,7 +510,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 10.874553
     speed: 2
-    m_Value: 10.866405
+    m_Value: 10.874553
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -682,7 +682,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 55
-  m_LastProjectPath: C:\Users\alich\OneDrive\Documents\Gad 181\project1Studio2
+  m_LastProjectPath: C:\Users\alich\color2\project1Studio2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
